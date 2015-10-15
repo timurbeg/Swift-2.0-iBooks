@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apple-id</key>
+	<string>sil_mosi@hotmail.com</string>
+	<key>artistId</key>
+	<integer>405307759</integer>
+	<key>artistName</key>
+	<string>Apple Inc.</string>
+	<key>asset-info</key>
+	<dict>
+		<key>file-size</key>
+		<integer>3904313</integer>
+		<key>flavor</key>
+		<string>pub</string>
+	</dict>
+	<key>book-info</key>
+	<dict>
+		<key>PageProgression</key>
+		<string>default</string>
+		<key>asset-info</key>
+		<dict>
+			<key>file-size</key>
+			<integer>3904313</integer>
+			<key>flavor</key>
+			<string>pub</string>
+		</dict>
+		<key>languages</key>
+		<array>
+			<string>en</string>
+		</array>
+		<key>publication-version</key>
+		<integer>160815996</integer>
+	</dict>
+	<key>cover-writing-mode</key>
+	<string>horizontal</string>
+	<key>desktopSupportLevel</key>
+	<string>supported</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>explicit</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>epub</string>
+	<key>genre</key>
+	<string>Programming</string>
+	<key>genreId</key>
+	<integer>10023</integer>
+	<key>isbn</key>
+	<string>9781106041333</string>
+	<key>itemId</key>
+	<integer>881256329</integer>
+	<key>itemName</key>
+	<string>The Swift Programming Language (Swift 2)</string>
+	<key>kind</key>
+	<string>ebook</string>
+	<key>languages</key>
+	<array>
+		<string>en</string>
+	</array>
+	<key>obeyPageBreaks</key>
+	<integer>1</integer>
+	<key>pageCount</key>
+	<integer>500</integer>
+	<key>primaryLanguage</key>
+	<string>en</string>
+	<key>publisher</key>
+	<string>Apple Inc.</string>
+	<key>purchaseDate</key>
+	<string>2015-10-15T13:11:41Z</string>
+	<key>releaseDate</key>
+	<string>2014-06-02T07:00:00Z</string>
+	<key>s</key>
+	<integer>143459</integer>
+	<key>scroll-axis</key>
+	<string>default</string>
+	<key>seriesAdamId</key>
+	<integer>888896989</integer>
+	<key>seriesSequenceDisplaySuppress</key>
+	<false/>
+	<key>seriesTitle</key>
+	<string>Swift Programming Series</string>
+	<key>shouldDisableOptimizeSpeed</key>
+	<true/>
+	<key>shouldDisableTouchEmulation</key>
+	<true/>
+	<key>sort-name</key>
+	<string>Swift Programming Language (Swift 2)</string>
+	<key>vendorId</key>
+	<integer>379015</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>year</key>
+	<string>2014</string>
+</dict>
+</plist>
